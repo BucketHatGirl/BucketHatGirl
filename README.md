@@ -1,8 +1,8 @@
 ## Hi there, I'm Maddie
 
-## I am proficient in these languages :D
+## I am currently using these languages :D
 ```
-  Golang
   Lua
   Ruby
+  C++
 ```
